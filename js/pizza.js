@@ -134,8 +134,3 @@ function getReceipt() {
 	document.getElementById("orderTotalPrice").innerHTML = "$"+currentPizzaOrder.totalPrice+".00";
 			
 }
-
-// Clears the form selections and sets them back to their defaults.
-function clearAll() {
-	document.getElementById("frmMenu").reset();
-};		
