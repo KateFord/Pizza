@@ -33,9 +33,6 @@ INGREDIENT MODIFIER PRICING:
 EXPECTATIONS:
 Your HTML/CSS/JavaScript will need to present the menu and retrive the patron's selection and return an invoiced receipt to the user's screen with their total purchase price once they press an "Order" button.
 
-## Steps Taken
-I started with a blank HTML file and built my project folder. Using Bootstrap 4, I was quickly able to pull together the HTML and CSS framework for how I wanted my site to look. I next dove into the JavaScript to meet the ‘client’ requirements. First, I built a function that would print content to the bottom portion of my website. I included variables for the running total and for the list of options chosen (in an array.) Next I added a function for the “clear” button, to reset the text in the invoice section as well as the selections made above. From there I built functions, one at a time, to take the input for the different user choices and add them to these two running variables. These were mapped sequentially so that when a user clicks the “order” button, they all run and generate the list of choices and the total in the invoice section at the bottom of the page. 
-
-## Results
-This was a fun project to construct. At first I was daunted by how many complex details were required, but after I started building the HTML and CSS I realized it didn’t have to be as scary as I imagined. With that win under my belt, I took a walk to think about how I would architect the JavaScript to efficiently gather and display the information I needed. The JavaScript file was definitely the hardest part of the writing the page, but I am now much more confident I can use these tools to build more interactive features in future pages! 
+## Result:
+From a blank HTML file, I used Bootstrap 4 to pull together the HTML and CSS framework. Then I added JavaScript to meet the project requirements. I consider myself a backend developer first and foremost but I did have fun with this project. Once I familiarized myself with Bootstrap 4 and CSS hierarchy, things became much less frustrating and much more rewarding.
  
